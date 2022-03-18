@@ -1,5 +1,5 @@
 ## Opa eu sou Samuel Willis Santos, fique avontade! ☕
-<div align="center">
+<div align="center" display="flex">
   <a href="https://github.com/WillisSz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WillisSz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillisSz&layout=compact&langs_count=7&theme=dracula"/>
