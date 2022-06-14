@@ -1,4 +1,4 @@
-## Opa eu sou Samuel Willis Santos, fique avontade! ☕
+## Opa eu sou Samuel, fique avontade! ☕
 <div align="center">
   <a href="https://github.com/WillisSz">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillisSz&layout=compact&langs_count=7&theme=radical"/> 
